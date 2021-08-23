@@ -47,7 +47,20 @@ for(i=0; i<questions.length; i++){
 
 console.log(chalk.greenBright.bold.underline("Your final score out of 100 is: " + score + "\n\n"))
 
-console.log(chalk.greenBright.bold.bgBlack("Check out all the correct answers: \n 1.B-Cricket \n 2.D-RCB \n 3.A-Cockroach \n 4.B-Sport Bike \n 5.D-All of the above \n 6.B-Late night Driving Car at high speed \n 7.A-1 \n 8.A-30th August \n 9.B-Chinese \n 10. D-Virat Kohli"))
+console.log("Check out the current High scores: \n")
+
+ var arrays = ["Soham: 70 ","Riya: 70", "Priyanka: 70","Akanksha: 70"]
+ 
+
+ for (let z=0; z<arrays.length; z++){
+   console.log(arrays[z])
+ }
+
+ if (score > 70){
+   console.log("\nCongratulations " + userName +  " You have beaten the high score.Send me a screenshot so that I will update your new best record")
+ }else{
+   console.log(" Oops,you failed to beat the highscore")
+ }
 
 console.log(chalk.redBright.bgBlack.underline.bold("\n\n Hope you enjoyed Chief...For playing more quiz apps like this,Do follow me on twitter and instagram  \n\n"))
 
