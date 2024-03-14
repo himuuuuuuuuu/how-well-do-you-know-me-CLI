@@ -19,17 +19,6 @@ Brief info about this Project:
 Pull requests are always and most welcomed. For major changes, please open an issue first to discuss what you would like to change.
 
 
-# Support
-
-**My Support center:**
-
-If you want to reach me or finding any  issue with this,I am here to help!
-
-DM's are open at:
-
-twitter : https://twitter.com/SamyakShah_18
-
-instagram: https://www.instagram.com/samyakshah_18/
 
 # End notes
 
