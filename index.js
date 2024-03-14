@@ -62,14 +62,12 @@ console.log("Check out the current High scores: \n")
    console.log(" Oops,you failed to beat the highscore")
  }
 
-console.log(chalk.redBright.bgBlack.underline.bold("\n\n Hope you enjoyed Chief...For playing more quiz apps like this,Do follow me on twitter and instagram  \n\n"))
+console.log(chalk.redBright.bgBlack.underline.bold("\n\n Hope you enjoyed Chief...For playing more quiz apps like this,Do follow me on twitter "))
 
 
-var twitter = chalk.blue.bold.underline("https://twitter.com/SamyakShah_18")
+var twitter = chalk.blue.bold.underline("https://twitter.com/home")
 
-var insta = chalk.blue.bold.underline("https://www.instagram.com/samyakshah_18/")
-
-console.log(chalk.yellowBright.bgBlack.bold("If you want to give any suggestions or experiencing any bugs in this quiz you can DM me on : " + "\n\n" + twitter + "\n\n" +  insta))
+console.log(chalk.yellowBright.bgBlack.bold("If you want to give any suggestions or experiencing any bugs in this quiz you can DM me on : " + "\n\n" + twitter + "\n\n" ))
 
 }
 
